@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		04CECDD02B14C03100E80DC0 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CECDCF2B14C03100E80DC0 /* ViewModel.swift */; };
 		04E540EB29ACAD3700A3E8E5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E540EA29ACAD3700A3E8E5 /* AppDelegate.swift */; };
 		04E540ED29ACAD3700A3E8E5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E540EC29ACAD3700A3E8E5 /* SceneDelegate.swift */; };
 		04E540EF29ACAD3700A3E8E5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E540EE29ACAD3700A3E8E5 /* ViewController.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		04CECDCF2B14C03100E80DC0 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 		04E540E729ACAD3700A3E8E5 /* QuotesGenerator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QuotesGenerator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04E540EA29ACAD3700A3E8E5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		04E540EC29ACAD3700A3E8E5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				04E540EC29ACAD3700A3E8E5 /* SceneDelegate.swift */,
 				04E540EE29ACAD3700A3E8E5 /* ViewController.swift */,
 				04E5411A29ACB21C00A3E8E5 /* Quote.swift */,
+				04CECDCF2B14C03100E80DC0 /* ViewModel.swift */,
 				04E540F029ACAD3700A3E8E5 /* Main.storyboard */,
 				04E540F329ACAD3900A3E8E5 /* Assets.xcassets */,
 				04E540F529ACAD3900A3E8E5 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04CECDD02B14C03100E80DC0 /* ViewModel.swift in Sources */,
 				04E5411B29ACB21C00A3E8E5 /* Quote.swift in Sources */,
 				04E540EF29ACAD3700A3E8E5 /* ViewController.swift in Sources */,
 				04E540EB29ACAD3700A3E8E5 /* AppDelegate.swift in Sources */,
